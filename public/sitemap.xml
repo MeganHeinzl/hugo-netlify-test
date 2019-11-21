@@ -3,11 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://festive-fermat-bef057.netlify.com/categories/</loc>
+    <loc>https://festive-fermat-bef057.netlify.com/about/</loc>
+    <lastmod>2019-11-20T15:58:16-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://festive-fermat-bef057.netlify.com/</loc>
+    <lastmod>2019-11-20T15:58:16-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://festive-fermat-bef057.netlify.com/products/</loc>
+    <lastmod>2019-11-20T15:58:16-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://festive-fermat-bef057.netlify.com/categories/</loc>
   </url>
   
   <url>

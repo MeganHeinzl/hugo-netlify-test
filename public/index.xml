@@ -6,9 +6,28 @@
     <description>Recent content on Moss &amp; Fern</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 20 Nov 2019 15:58:16 -0800</lastBuildDate>
     
 	<atom:link href="https://festive-fermat-bef057.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://festive-fermat-bef057.netlify.com/about/</link>
+      <pubDate>Wed, 20 Nov 2019 15:58:16 -0800</pubDate>
+      
+      <guid>https://festive-fermat-bef057.netlify.com/about/</guid>
+      <description>About me! I am really cool and good at Hugo. :)</description>
+    </item>
+    
+    <item>
+      <title>Products</title>
+      <link>https://festive-fermat-bef057.netlify.com/products/</link>
+      <pubDate>Wed, 20 Nov 2019 15:58:16 -0800</pubDate>
+      
+      <guid>https://festive-fermat-bef057.netlify.com/products/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
