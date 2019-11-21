@@ -1,3 +1,10 @@
 baseURL = "https://festive-fermat-bef057.netlify.com/"
 languageCode = "en-us"
 title = "Moss & Fern"
+SectionPagesMenu = "main"
+
+[permalinks]
+     blog = "/:filename/"
+
+[params]
+     homeText = "What the heck is happening?"
